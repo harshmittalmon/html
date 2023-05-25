@@ -4,4 +4,5 @@ git add --all -> all all files in my repo
 
 git commmit -m "message" -> you are sure about addding the file and adding the reason for your changes 
 
-git push -> i am sure anow push my datato my github repo 
+git push -> i am sure anow push my datato my github repo
+ 
